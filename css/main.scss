@@ -47,6 +47,7 @@ left:47%;
 transform: rotate(-45deg);
 border-left: none;
 border-bottom: none;
+
 }
 .footer-col h4{
 	font-size: 18px;
@@ -134,8 +135,8 @@ footer .footer-waves img, footer .footer-waves video {
 /*responsive*/
 @media(max-width: 768px){
   .footer-col{
-    width: 50%;
-    margin-bottom: 30px;
+    width: 20%;
+   
 }
 
 }
